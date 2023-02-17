@@ -13,3 +13,11 @@ Using Pandas to clean/manipulate data
 ## III. Data visualizaion
 
 Use Matplotlib to visualize data
+
+#### Tableau dashboard
+
+<img src="https://raw.githubusercontent.com/Yajinglee/My_Portfolio_Website/main/images/Dashboard-1.png" width="80%" height="80%">
+
+#### Word cloud of awarded best fantacy books
+
+<img src="https://raw.githubusercontent.com/Yajinglee/My_Portfolio_Website/main/images/Best_fantacy_books.png" width="80%" height="80%">
