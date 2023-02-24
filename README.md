@@ -14,10 +14,17 @@ Using Pandas to clean/manipulate data
 
 Use Matplotlib to visualize data
 
+
+#### Word cloud 
+
+Python wordcloud library was used to create the word clouds.
+
+The screenshot below shows the books that won the 'Best fiction' award in 2011 that has ratings above 3.5.
+
+<img src="https://github.com/Yajinglee/My_Portfolio_Website/blob/main/images/best_fiction_book_wordcloud.png?raw=true" width="80%" height="80%">
+
 #### Tableau dashboard
 
-<img src="https://raw.githubusercontent.com/Yajinglee/My_Portfolio_Website/main/images/Dashboard-1.png" width="80%" height="80%">
+The screenshot below shows the top books and authors winning the 'Best fantasy books' award with the rating above 4.5 in 2022
 
-#### Word cloud of awarded best fantacy books
-
-<img src="https://raw.githubusercontent.com/Yajinglee/My_Portfolio_Website/main/images/Best_fantacy_books.png" width="80%" height="80%">
+<img src="https://github.com/Yajinglee/My_Portfolio_Website/blob/main/images/Dashboard.png?raw=true" width="80%" height="80%">
